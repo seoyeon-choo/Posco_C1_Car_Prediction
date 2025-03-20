@@ -1,4 +1,4 @@
-<h1>OXY</h1>
+<h1>Posco Indian Pre-owned Car Price Prediction</h1>
 포스코 아카데미 29 종합실습
 
 
